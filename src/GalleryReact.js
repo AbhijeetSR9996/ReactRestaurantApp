@@ -53,7 +53,7 @@ const GalleryReact = () => {
                                                     <div className="main-title pt-4 pb-3">
                                                         <h1>{name}</h1>
                                                         <p>{description}</p>
-                                                        <div><img src={require('../src/assets/samosa.jpg')} alt={name} className="img-fluid" style={{ height: 40, width: 40, borderRadius: 5 }} /></div>
+                                                        <div><img src={require('../src/images/samosa.jpg')} alt={name} className="img-fluid" style={{ height: 40, width: 40, borderRadius: 5 }} /></div>
                                                     </div>
                                                     <div className="menu-price-book">
                                                         <div className="price-book-divide d-flex justify-content-between ">
