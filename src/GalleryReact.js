@@ -45,7 +45,7 @@ const GalleryReact = () => {
                                             <div className="row Item-inside">
                                                 {/* for images */}
                                                 {/* <div className="col-12 col-md-12 col-lg-4 img-div">
-                                                    <img src={require('../src/assets/samosa.jpg')} alt={name} className="img-fluid" />
+                                                    <img src={require('../src/images/samosa.jpg')} alt={name} className="img-fluid" />
                                                 </div> */}
 
                                                 {/* menu items description */}
